@@ -1,0 +1,16 @@
+{
+  "name": "command-centre-mod",
+  "description": "Command Centre, a Claude Code mod from the Automators+ community.",
+  "owner": {
+    "name": "Automators+",
+    "url": "https://github.com/automatorsplus"
+  },
+  "plugins": [
+    {
+      "name": "command-centre",
+      "source": "./",
+      "description": "A /centre pane with one-press buttons for the prompts you repeat and every skill and slash command you have.",
+      "version": "1.0.0"
+    }
+  ]
+}

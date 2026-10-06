@@ -1,0 +1,20 @@
+{
+  "name": "command-centre",
+  "version": "1.0.0",
+  "description": "A /centre pane with one-press buttons for the prompts you repeat and every skill and slash command you have.",
+  "author": {
+    "name": "Automators+",
+    "url": "https://github.com/automatorsplus"
+  },
+  "homepage": "https://github.com/automatorsplus/command-centre-mod",
+  "repository": "https://github.com/automatorsplus/command-centre-mod",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "mod",
+    "prompts",
+    "skills",
+    "shortcuts"
+  ],
+  "types": "./types/index.d.ts"
+}
